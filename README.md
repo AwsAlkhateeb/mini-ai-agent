@@ -8,7 +8,7 @@ Simple educational AI agent that can:
 Run:
 #Clone the repository:
 
-git clone https://github.com/AwsAlkhateeb/mini-ai-agent
+git clone https://github.com/AwsAlkhateeb/mini-ai-agent.git
 
 #Setup your OpenAI API key:
 
