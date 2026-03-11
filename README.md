@@ -1,2 +1,11 @@
-# mini-ai-agent
-Simple educational AI agent built with Python that demonstrates basic agent architecture, tool usage, and project structure.
+# Mini AI Agent
+
+Simple educational AI agent that can:
+
+- Answer questions
+- Use a calculator tool
+
+Run:
+
+pip install -r requirements.txt
+python main.py
